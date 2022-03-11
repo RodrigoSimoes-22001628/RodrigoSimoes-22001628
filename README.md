@@ -1,6 +1,6 @@
 ### Rodrigo Simões 👋
 ##
-<div align="center">
+<div>
   <a href="https://github.com/RodrigoSimoes-22001628">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSimoes-22001628&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSimoes-22001628&layout=compact&langs_count=7&theme=dark"/>
@@ -21,5 +21,4 @@
 <a href="https://www.linkedin.com/in/rodrigo-sim%C3%B5es-6a2393207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/RodrigoSimoes-22001628/RodrigoSimoes-22001628/blob/output/github-contribution-grid-snake.svg)
-  
   </div>
